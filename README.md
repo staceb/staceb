@@ -2,7 +2,7 @@
 - 🏛️ I'm a front-end developer [@DefiLab_xyz](https://twitter.com/DefiLab_xyz)
 - 👀 I’m interested in React, Data Visualisations, Decentralised Finance & Data
 - 🌱 I’m currently learning GraphQL
-- 💞️ I’m looking to collaborate on interesting front-end work in the defi space
+- 💞️ I’m looking to collaborate on interesting work in the defi space
 - 📫 How to reach me - DM me [@StaceBL](https://twitter.com/StaceBL)
 
 <!---
